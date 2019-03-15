@@ -2,3 +2,4 @@
 This is the advanced web class.
 This week we are learning Git.
 I'm not sure how I feel about this.
+Git is the worst. We hates it.
